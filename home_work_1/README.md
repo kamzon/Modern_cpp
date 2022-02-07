@@ -1,12 +1,9 @@
-# _{Application Name}_
+# _{Bookstore Program}_
 
-#### By _**{List of contributors}**_
+#### By _**{Kamzon Noureddine}**_
 
-#### _{Brief description of application}_
+#### _{This program produce a report of sales transactions for each book in the store(number of copies, revenue and the avrage sales price)}_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* C++
