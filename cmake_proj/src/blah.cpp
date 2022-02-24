@@ -1,5 +1,6 @@
 #include "./blah.h"
 
-void PrintBlah(){
-    std::cout << "blah blah ...." << std::endl;
+int Sum(int a, int b){
+
+    return a + b;
 }
